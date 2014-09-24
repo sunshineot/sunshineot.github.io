@@ -1,0 +1,52 @@
+img{
+	position: absolute;
+	height: 330px;
+	width: 270px;
+	right: 200px;
+	top: 20px;
+	-webkit-transform: rotate(355deg); /*This only works with two browsers therefore the one below is needed*/
+	transform: rotate(355deg);
+	}
+	
+div{
+	height:150px;
+	width: 750px;
+	}
+	
+#table{
+	position: absolute;
+	left: 200px;
+	/*line-height: 20px;*/
+	}
+	
+	
+.fix{
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+	border-right: 3px solid silver;
+	/*margin: 0, 50px, 0, 50px;*/
+	padding-top: 0%;
+	padding-right: 20px;
+	padding-bottom: 35px;
+	padding-left: 20px;
+	vertical-align: top;
+	}
+	
+.padding{
+	padding-top: 0%;
+	padding-right: 20px;
+	padding-bottom: 35px;
+	padding-left: 20px;
+	}
+	
+span{
+	font-weight: bold;
+	}
+	
+#grey{
+	font-style: italic;
+	color: silver;
+	padding-left: 70px;
+	}
+	
